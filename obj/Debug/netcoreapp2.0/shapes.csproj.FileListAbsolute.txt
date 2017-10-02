@@ -1,0 +1,10 @@
+C:\University\Object Oriented Programming\GitHub\week02\shapes\bin\Debug\netcoreapp2.0\shapes.deps.json
+C:\University\Object Oriented Programming\GitHub\week02\shapes\bin\Debug\netcoreapp2.0\shapes.runtimeconfig.json
+C:\University\Object Oriented Programming\GitHub\week02\shapes\bin\Debug\netcoreapp2.0\shapes.runtimeconfig.dev.json
+C:\University\Object Oriented Programming\GitHub\week02\shapes\bin\Debug\netcoreapp2.0\shapes.dll
+C:\University\Object Oriented Programming\GitHub\week02\shapes\bin\Debug\netcoreapp2.0\shapes.pdb
+C:\University\Object Oriented Programming\GitHub\week02\shapes\obj\Debug\netcoreapp2.0\shapes.csproj.CoreCompileInputs.cache
+C:\University\Object Oriented Programming\GitHub\week02\shapes\obj\Debug\netcoreapp2.0\shapes.AssemblyInfoInputs.cache
+C:\University\Object Oriented Programming\GitHub\week02\shapes\obj\Debug\netcoreapp2.0\shapes.AssemblyInfo.cs
+C:\University\Object Oriented Programming\GitHub\week02\shapes\obj\Debug\netcoreapp2.0\shapes.dll
+C:\University\Object Oriented Programming\GitHub\week02\shapes\obj\Debug\netcoreapp2.0\shapes.pdb
