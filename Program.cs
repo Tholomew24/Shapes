@@ -8,6 +8,7 @@ namespace shapes
         {
             App myApp = new App();
             myApp.Run();
+                        
         }
     }
 }
