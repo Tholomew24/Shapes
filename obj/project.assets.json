@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\University\\Object Oriented Programming\\GitHub\\Week02\\Shapes\\shapes.csproj",
+      "projectUniqueName": "C:\\university\\object oriented programming\\github\\week02\\shapes\\shapes.csproj",
       "projectName": "shapes",
-      "projectPath": "C:\\University\\Object Oriented Programming\\GitHub\\Week02\\Shapes\\shapes.csproj",
+      "projectPath": "C:\\university\\object oriented programming\\github\\week02\\shapes\\shapes.csproj",
       "packagesPath": "C:\\Users\\Paolo\\.nuget\\packages\\",
-      "outputPath": "C:\\University\\Object Oriented Programming\\GitHub\\Week02\\Shapes\\obj\\",
+      "outputPath": "C:\\university\\object oriented programming\\github\\week02\\shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
